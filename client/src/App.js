@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Netlify</h1>
+      <h1>Netfix Clone</h1>
+      <p>Still some is pending on it</p>
     </div>
   );
 }
